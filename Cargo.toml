@@ -1,6 +1,6 @@
 [package]
 description = "Parity built-in dapps."
-name = "parity-ui-old-dev"
+name = "parity-ui-old-precompiled"
 version = "1.9.0"
 license = "GPL-3.0"
 authors = ["Parity Technologies <admin@parity.io>"]
